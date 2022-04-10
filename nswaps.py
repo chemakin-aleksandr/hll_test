@@ -20,7 +20,7 @@ a0 > a1 > a2 > … > a_{k-1} > a_k < a_{k+1} < a_{k+2} < … a_N, 0 <= k <= N.
 https://stackoverflow.com/questions/20990127/sorting-a-sequence-by-swapping-adjacent-elements-using-minimum-swaps
 https://www.geeksforgeeks.org/counting-inversions/
 https://stackoverflow.com/questions/337664/counting-inversions-in-an-array/6424847#6424847
-
+В итоге сложность получилась O(n^2), по памяти - O(n)
 
 """
 import math
